@@ -1,6 +1,6 @@
 # playstv-api.github.io
 Plays.TV Game Integration API Documentation
 
-http://docs.playstv.com/
+http://plays.tv/api
 
 
